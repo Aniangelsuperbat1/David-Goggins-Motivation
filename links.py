@@ -8,3 +8,6 @@
 "https://www.youtube.com/watch?v=5p4YqBM42ec"
 "https://www.youtube.com/watch?v=vyJ_hhninDw"
 "https://www.youtube.com/watch?v=4XOhQJv-nxg"
+"https://www.youtube.com/watch?v=_Z5wTgvO0s0"
+"https://www.youtube.com/watch?v=qcBkVeGmPao"
+"https://www.youtube.com/watch?v=XlSwzYaPt_U"
